@@ -2,7 +2,7 @@
 This repo contains a project analyzing the rates of inflation and consumer price indices in Kenya
 
 ## Title
-Data Analysis using data visualization
+Analyzing Inflation Rates in Kenya. 
 
 ## Author
 Terry Migwi
